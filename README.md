@@ -40,7 +40,7 @@ This project involves an **HR Analytics Dashboard** developed in **Power BI** to
 ---
 
 # **Files Included**
-- **`HR Dashboard`**: A Power BI file containing the interactive dashboard for visualizing and analyzing HR data.
+- **`HR Dashboard.pbix`**: A Power BI file containing the interactive dashboard for visualizing and analyzing HR data.
 - **`Data_Dict.xlsx`**: Metadata file providing descriptions and details about the dataset fields to aid in data understanding.
 - **`HR Data.xlsx`**: The primary dataset containing detailed employee information, including demographics, job roles, satisfaction levels, and attrition data.
   
